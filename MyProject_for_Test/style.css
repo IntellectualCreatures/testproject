@@ -1,0 +1,13 @@
+body{
+    background: blueviolet;
+    color: whitesmoke;
+    display: flex;
+    align-items: center;
+    align-content: center;
+}
+div{
+    position: relative;
+    align-content: center;
+    font-size: large;
+    margin-left: 30%;
+}
